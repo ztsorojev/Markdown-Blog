@@ -1,0 +1,70 @@
+/***********************/
+/*      LIST PAGE      */
+/***********************/
+
+.iconBlog {
+	background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.iconBlog > i {
+	font-size: 18px;
+}
+
+.iconBlog > i:hover {
+	color: #45b5ff;
+}
+
+
+.newPost {
+	margin: auto;
+	margin-top: 100px;
+}
+
+.newPost-btn {
+	width:auto;
+	border-radius: 100%;
+	font-weight: bold;
+	background-color: #45b5ff;
+	outline: none !important;
+	color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.newPost-btn:hover {
+	background-color: #25ffd4;
+}
+
+
+/***********************/
+/*      EDIT PAGE      */
+/***********************/
+
+.text-box > input {
+	outline: none;
+	width: 50%;
+}
+
+.text-box > textarea {
+	outline: none;
+	width: 50%;
+}
+
+
+/**************************/
+/*      PREVIEW PAGE      */
+/**************************/
+.preview-box {
+	padding: 50px;
+    border: 1px solid #b9b8b8;
+}
+
+.closeBtn {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	padding: 5px 10px 0 0;
+}
