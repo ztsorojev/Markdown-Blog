@@ -2,7 +2,7 @@
 
 Implemented a web application that allows users to save and edit blog posts written in [markdown](https://en.wikipedia.org/wiki/Markdown).
 
-**Languages:** HTML, CSS, Java Servlet <br>
+**Languages:** HTML, CSS, Java Servlet, MySQL <br>
 **Server:** Apache Tomcat
 
 ## How it works
